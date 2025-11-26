@@ -1,0 +1,9 @@
+Iris Classification Report
+Best model: SVM
+Test accuracy: 0.9667
+Precision (macro): 0.9697
+Recall (macro): 0.9667
+F1 (macro): 0.9666
+
+Saved model: C:\ML PROJECTS\1. Iris Flower Classification\output\models\best_iris_model_SVM.joblib
+Figures saved in: C:\ML PROJECTS\1. Iris Flower Classification\output\figs
